@@ -102,6 +102,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IXTIUQMG
+
+[Document5]
+DocumentPath=Communication.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CDNAOGPQ
+
 [Parameter1]
 Name=Revision
 Value=A
@@ -1088,6 +1122,34 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=clLime
+Net2=NetName=CAN_N|NetColor=clAqua
+Net3=NetName=CAN_P|NetColor=clAqua
+Net4=NetName=COMH_0_N|NetColor=clLime
+Net5=NetName=COMH_0_P|NetColor=clLime
+Net6=NetName=COMH_1_N|NetColor=clLime
+Net7=NetName=COMH_1_P|NetColor=clLime
+Net8=NetName=COMH_N|NetColor=clLime
+Net9=NetName=COMH_P|NetColor=clLime
+Net10=NetName=COML_0_N|NetColor=clLime
+Net11=NetName=COML_0_P|NetColor=clLime
+Net12=NetName=COML_1_N|NetColor=clLime
+Net13=NetName=COML_1_P|NetColor=clLime
+Net14=NetName=COML_N|NetColor=clLime
+Net15=NetName=COML_P|NetColor=clLime
+Net16=NetName=DIFH_N|NetColor=clLime
+Net17=NetName=DIFH_P|NetColor=clLime
+Net18=NetName=DIFL_N|NetColor=clLime
+Net19=NetName=DIFL_P|NetColor=clLime
+Net20=NetName=GND|NetColor=$00434343
+Net21=NetName=MCAN RX|NetColor=clAqua
+Net22=NetName=MCAN TX|NetColor=clAqua
+Net23=NetName=NetC?_1|NetColor=clBlack
+Net24=NetName=NetC?_2|NetColor=clLime
+Net25=NetName=NetIC?_1|NetColor=clAqua
+Net26=NetName=NetIC?_4|NetColor=clAqua
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
