@@ -1139,17 +1139,28 @@ Net12=NetName=COML_1_N|NetColor=clLime
 Net13=NetName=COML_1_P|NetColor=clLime
 Net14=NetName=COML_N|NetColor=clLime
 Net15=NetName=COML_P|NetColor=clLime
-Net16=NetName=DIFH_N|NetColor=clLime
-Net17=NetName=DIFH_P|NetColor=clLime
-Net18=NetName=DIFL_N|NetColor=clLime
-Net19=NetName=DIFL_P|NetColor=clLime
-Net20=NetName=GND|NetColor=$00434343
-Net21=NetName=MCAN RX|NetColor=clAqua
-Net22=NetName=MCAN TX|NetColor=clAqua
-Net23=NetName=NetC?_1|NetColor=clBlack
-Net24=NetName=NetC?_2|NetColor=clLime
-Net25=NetName=NetIC?_1|NetColor=clAqua
-Net26=NetName=NetIC?_4|NetColor=clAqua
+Net16=NetName=CS|NetColor=$00E8864A
+Net17=NetName=DIFH_N|NetColor=clLime
+Net18=NetName=DIFH_P|NetColor=clLime
+Net19=NetName=DIFL_N|NetColor=clLime
+Net20=NetName=DIFL_P|NetColor=clLime
+Net21=NetName=GND|NetColor=$00434343
+Net22=NetName=MCAN RX|NetColor=clAqua
+Net23=NetName=MCAN TX|NetColor=clAqua
+Net24=NetName=MISO|NetColor=$00E8864A
+Net25=NetName=MOSI|NetColor=$00E8864A
+Net26=NetName=NetC?_1|NetColor=clBlack
+Net27=NetName=NetC?_2|NetColor=clLime
+Net28=NetName=NetIC?_1|NetColor=clAqua
+Net29=NetName=NetIC?_4|NetColor=clAqua
+Net30=NetName=NFAULT|NetColor=$00E8864A
+Net31=NetName=NRST|NetColor=$000099FF
+Net32=NetName=SCK|NetColor=$00E8864A
+Net33=NetName=SPI_RDY|NetColor=$00E8864A
+Net34=NetName=SWDCLK|NetColor=$000099FF
+Net35=NetName=SWDIO|NetColor=$000099FF
+Net36=NetName=USB_N|NetColor=clAqua
+Net37=NetName=USB_P|NetColor=clAqua
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
