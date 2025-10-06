@@ -221,6 +221,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKFUURSK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BQ_79600-Q1_BMS_Master\Design Rule Check - Bms_Master_RevA.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=A
